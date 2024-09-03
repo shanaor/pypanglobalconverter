@@ -73,11 +73,15 @@ Remark!!!------------------------------------------>>>>>>>  Some files i know co
 
 # requirments
 -------------
-this is before i learned virtual enviroment so couldnt do pip freeze requirments on time so this is part list: 
+this is before i learned virtual enviroment so couldnt do pip freeze requirments on time so this is part list: <br>
 import pandas as pd
+<br>
 import os
+<br>
 import sys
+<br>
 import sqlite3
+<br>
 pip pyreadstat
 
 Hope i could finish this properly and make changes to make the program alert when specific libraries are needed. 
